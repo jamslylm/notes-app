@@ -7,7 +7,7 @@ You must have NodeJs installed to run this program and npm to install necessary 
 # Get Started
 cloning and setup the repository using :
 ```bash
-git clone <link https or ssh of the repo
+git clone <link https or ssh of the repo>
 
 cd notes-app
 
