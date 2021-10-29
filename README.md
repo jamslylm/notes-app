@@ -13,7 +13,7 @@ cd notes-app
 
 npm install
 ```
-> These commands above will clone the program to your local machine and move inside the project directory, and install the necessary package, if no error found your ready to start using it 😎
+> These commands above will clone the program to your local machine and move inside the project directory, and install the necessary package, if no error found you are ready to start using it 😎
 ## Usage
 Run these commands right inside the root of project directory
 
