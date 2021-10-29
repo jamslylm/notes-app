@@ -68,7 +68,8 @@ yargs.command({
         title: {
             describe: 'Note title',
             demandOption: true,
-            type: 'string'
+            type: 'string',
+            alias: 't'
         }
     },
     handler(argv) {
